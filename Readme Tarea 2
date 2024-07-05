@@ -1,0 +1,12 @@
+Roy Quinchaleo - Kevin Tarqui
+Este proyecto tiene como objetivo realizar un análisis de flujo de potencia en un sistema de energía utilizando el método de Newton-Raphson.
+Para ello, hemos utilizado la biblioteca pandapower para la modelación del sistema, la resolución de las ecuaciones de flujo de potencia y su posterior comparacion.
+
+
+Contenido:
+- `Eli-246 Tarea 2.pdf/`: Se almacena la tarea explicita a realizar.
+- `Diagrama.png/`: Involucra al digrama de flujo de potencia realizado
+Notebooks Jupyter para análisis exploratorio.
+- `Tarea 2 Jupiter.ipynb/`: Notebook Jupyter para analisis exploratorio del codigo.
+- `Tarea 2 Script.py/`: Codigo total del trabajo.
+- `Tarea 2`: Documentación del proyecto.
