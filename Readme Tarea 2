@@ -6,7 +6,6 @@ Para ello, hemos utilizado la biblioteca pandapower para la modelación del sist
 Contenido:
 - `Eli-246 Tarea 2.pdf/`: Se almacena la tarea explicita a realizar.
 - `Diagrama.png/`: Involucra al digrama de flujo de potencia realizado
-Notebooks Jupyter para análisis exploratorio.
 - `Tarea 2 Jupiter.ipynb/`: Notebook Jupyter para analisis exploratorio del codigo.
 - `Tarea 2 Script.py/`: Codigo total del trabajo.
-- `Tarea 2`: Documentación del proyecto.
+- `Informe Tarea 2.pdf`: Documentación del proyecto.
